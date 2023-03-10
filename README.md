@@ -7,4 +7,4 @@ Alguns dos comentários foram utilizados para auxiliar o processo de aprendizado
 ##
 Utilizado o Google Colab.
 ##
-Desenvolvido por Leticia Resina
+Desenvolvido por Leticia Resina. 
